@@ -10,4 +10,6 @@ Métrica de desempeño [r^2] : Árbol inicial= 0.84 , árbol con 3 nodos = 0.83 
 
 Predicciones de prueba : Se pueden ver dentro de los arhivos, estos se hicieron con el set de validación.
 
-Nombre del archivo a revisar: m2_lib.py ó M2_Lib.ipynb
+Nombre del archivo a revisar para Portafolio Implementación: m2_lib.py ó M2_Lib.ipynb
+
+Nombre del archivo a revisar para Portafolio Análisis: Modulo2.pdf
