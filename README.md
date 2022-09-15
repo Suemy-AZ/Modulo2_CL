@@ -15,4 +15,4 @@ Predicciones de prueba :
 
 Nombre del archivo a revisar para Portafolio Implementación: m2_lib.py ó M2_Lib.ipynb
 
-Nombre del archivo a revisar para Portafolio Análisis: Modulo2.pdf
+Nombre del archivo a revisar para Portafolio Análisis: Modulo2-1.pdf
